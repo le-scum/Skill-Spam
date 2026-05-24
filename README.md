@@ -14,7 +14,7 @@ Skill Spam automates repetitive skill usage and sitting cycles by controlling mo
 🔍 Open source — all source code included\
 
 ## 📦 Installation
-Download here or clone the repository\
+[Download here](https://github.com/le-scum/Skill-Spam/releases) or clone the repository\
 Extract the files into a folder\
 Run mousebot_ui as Administrator ⚠️\
 Configure your skill locations and timers\
