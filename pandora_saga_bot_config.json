@@ -1,0 +1,12 @@
+{
+  "sit_x": "1230",
+  "sit_y": "1040",
+  "skill_x": "1082",
+  "skill_y": "1038",
+  "sit_time_ms": 55000,
+  "spam_time_ms": 45000,
+  "post_spam_wait_ms": 5000,
+  "stop_hotkey_name": "Scroll_Lock",
+  "stop_hotkey_vk": 145,
+  "window": "Age of Astir | AGEOFASTIR.COM"
+}
