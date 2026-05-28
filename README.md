@@ -81,12 +81,15 @@ Assign a global hotkey to quickly pause/resume the bot while playing.\
 \
 ⚠️ Administrator Rights Required\
 Skill Spam must be run as Administrator in order to send mouse input outside of the application window.\
-All source code is included in the repository for transparency and customization.\
+All source code is included in the repository for transparency and customization.
 
 ## 🐍 Built With
 Python\
 GUI automation libraries\
-Global keyboard hooks
+Global keyboard hooks\
+bettercam\
+opencv-python\
+pillow
 
 📜 Disclaimer\
 This project is provided for educational and personal-use purposes only. Use responsibly and at your own risk.
