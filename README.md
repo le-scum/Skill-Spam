@@ -36,17 +36,28 @@ Select the game window the bot should focus and click inside.\
 \
 📍 Sit Location / Skill Location\
 Click Set Location, then left-click the desired hotbar slot in-game.\
+
 Skill Location → Skill to spam\
 Sit Location → Sit/rest skill location\
 
 ⏳ Skill Duration\
 Controls how long the bot continuously spams the selected skill.\
+You can rotate up to 5 different skills to level different profiencies. Set the "Rotate Every X sec" to set how long each skill is spammed for before switching.\
 
 _Recommended values vary depending on:_\
 <sup>Skill cooldowns, Character SPI, Mana usage, Animation timing</sup>
 
 🪑 Sit Duration\
 Controls how long your character remains sitting before returning to skill spam.\
+Enable / Disable sitting phase: Allows user to disable the sitting phase\
+\
+⚠️ Logout Checker\
+Checks to see if the player has been disconnected from the server and reconnects them.\
+This portion of the bot has a smart feature and checks the screen for a certain dialog that appears on the login screen. If it detects this dialog, then it runs the clicks. If it does not detect the clicks, it skips it. Make sure your skill and sit clicks are not overlapping with the Connect and Begin button locations.\
+\
+Enable/Disable the logout checker\
+Connect button and Begin button locations: Set these so the bot knows where to click.\
+Loops before checking: How many Skill and Sit phases it goes through to check the client if its logged out.\
 \
 🕒 Cooldown\
 Delay between switching phases.\
@@ -62,7 +73,7 @@ Immediately stops and resets the bot.\
 ⏸️ Pause / Resume Button\
 Temporarily pauses the bot and resumes when pressed again.\
 \
-⌨️ Set Control Hotkey\
+⌨️ Set Pause / Resume Hotkey\
 Assign a global hotkey to quickly pause/resume the bot while playing.\
 \
 ⚠️ Administrator Rights Required\
