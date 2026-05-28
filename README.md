@@ -20,6 +20,7 @@ Skill Spam automates repetitive skill usage and sitting cycles by controlling mo
 [Download here](https://github.com/le-scum/Skill-Spam/releases) or clone the repository\
 Extract the files into a folder\
 Run skillspam.exe as Administrator ⚠️\
+Choose your game window.\
 Configure your skill, sit, logout checker locations and timers\
 Press Start\
 Go AFK 😎
